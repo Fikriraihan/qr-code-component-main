@@ -35,7 +35,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I back to learned about the basic of HTML, specifically semantic HTML which is important in the web development. I finally used the internal CSS again after a long time. This project got me remembered about the basic of the web development
+I back to learned about the basic of HTML, specifically semantic HTML which is important in the web development. I finally used the internal CSS again after a long time. This project got me remembered about the basic of the web development. Last but not least I finally write a README.md.
 
 ## Author
 
